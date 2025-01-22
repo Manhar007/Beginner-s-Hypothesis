@@ -1,1 +1,1 @@
-#All the ipynb files i used in Beginner's Hypothesis 
+All the ipynb files i used in Beginner's Hypothesis 
